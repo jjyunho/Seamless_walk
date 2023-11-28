@@ -1,5 +1,6 @@
 # Seamless_walk
 Seamless_walk core code.
 
-It will be open before 2023.05. 
+Sorry for the delay.
+It will be open within 2023. 
 Code clearing is in progress.
