@@ -7,10 +7,15 @@ Yunho Choi, Dong-Hyeok Park, Sungha Lee, Isaac Han, Ecehan Akan, Hyeon-Chang Jeo
 This is the code for seamless-walk. The code is organized as follows:
 
 main.py: Contains sensor tests, seamless walk model accuracy tests, and the operational code for seamless walk.
+
 VR_locomotion_analysis.py: code for statistically analyzing sensor performance
+
 model folder: Contains the seamless walk model and utility codes.
+
 sensors folder: Contains codes for using tactile sensors.
+
 unreal folder: Contains code for connection with the Unreal game engine.
+
 logs: Stored data from sensor accuracy tests.
 
 
